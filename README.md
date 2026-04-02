@@ -7,19 +7,19 @@ Elle permet de gérer l'ensemble des équipements informatiques d'un établissem
 
 ---
 
-## 📋 Fonctionnalités
+##  Fonctionnalités
 
-- ➕ **Ajouter** un équipement avec contrôle du numéro de série unique
-- 🔍 **Rechercher** par type, localisation, état ou numéro de série
-- ✏️ **Modifier** les informations d'un équipement existant
-- 🗑️ **Supprimer** un équipement avec confirmation
-- 📋 **Afficher** tout le parc, triable par type ou localisation
-- 🎨 **Coloration** des lignes selon l'état de l'équipement
-- 📊 **Statistiques** en temps réel dans le panneau latéral
+-  **Ajouter** un équipement avec contrôle du numéro de série unique
+-  **Rechercher** par type, localisation, état ou numéro de série
+-  **Modifier** les informations d'un équipement existant
+-  **Supprimer** un équipement avec confirmation
+-  **Afficher** tout le parc, triable par type ou localisation
+-  **Coloration** des lignes selon l'état de l'équipement
+-  **Statistiques** en temps réel dans le panneau latéral
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 ```
 📁 projet/
 ├── main.py          # Point d'entrée de l'application
@@ -31,19 +31,19 @@ Elle permet de gérer l'ensemble des équipements informatiques d'un établissem
 
 ---
 
-## ⚙️ Prérequis
+##  Prérequis
 
-- Python **3.8** ou supérieur
+- Python **3.8** 
 - Tkinter (inclus par défaut avec Python)
 - Aucune bibliothèque externe à installer
 
 ---
 
-## 🚀 Lancement
+##  Lancement
 ```bash
 # Cloner le dépôt
-git clone https://github.com/TON_USERNAME/TON_REPO.git
-cd TON_REPO
+git clone https://github.com/Imene06-hub/parc-informatique.git
+cd parc-informatique
 
 # Lancer l'application
 python main.py
@@ -51,7 +51,7 @@ python main.py
 
 ---
 
-## 🗄️ Base de données
+##  Base de données
 
 La base SQLite `projetihm.db` est créée automatiquement au premier lancement.  
 Elle contient une seule table `equipements` avec les colonnes suivantes :
@@ -68,7 +68,7 @@ Elle contient une seule table `equipements` avec les colonnes suivantes :
 
 ---
 
-## 🎨 Code couleur des états
+##  Code couleur des états
 
 | Couleur | État |
 |---------|------|
@@ -79,7 +79,7 @@ Elle contient une seule table `equipements` avec les colonnes suivantes :
 
 ---
 
-## 🏗️ Architecture MVC
+##  Architecture MVC
 
 Le projet suit le patron **Modèle - Vue - Contrôleur** :
 
@@ -89,7 +89,7 @@ Le projet suit le patron **Modèle - Vue - Contrôleur** :
 
 ---
 
-## 👨‍💻 Auteur
+##  Auteur
 
 Projet réalisé dans le cadre d'un TP — Module IHM  
-**MEDANI Imene** — [UMMTO]
+**MEDANI Imene** — UMMTO
