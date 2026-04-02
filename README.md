@@ -26,7 +26,7 @@ Elle permet de gérer l'ensemble des équipements informatiques d'un établissem
 
 -  **Modifier** les informations d'un équipement existant
 
-  <img width="500" height="300" alt="MODIFIER" src="https://github.com/user-attachments/assets/f2274472-0f2d-4cc0-aa94-29c3a24076f1" />            <img width="430" height="249" alt="SUCCES DE MODIFICATION" src="https://github.com/user-attachments/assets/53c78fa8-573f-4582-9713-44377e17089f" />
+  <img width="400" height="250" alt="MODIFIER" src="https://github.com/user-attachments/assets/f2274472-0f2d-4cc0-aa94-29c3a24076f1" />            <img width="430" height="249" alt="SUCCES DE MODIFICATION" src="https://github.com/user-attachments/assets/53c78fa8-573f-4582-9713-44377e17089f" />
 
 
 -  **Supprimer** un équipement avec confirmation
