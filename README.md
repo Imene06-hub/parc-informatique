@@ -6,7 +6,7 @@ Application de bureau développée en **Python / Tkinter** dans le cadre d'un TP
 Elle permet de gérer l'ensemble des équipements informatiques d'un établissement (ajout, recherche, modification, suppression, affichage).
 
 
-<img width="500" height="250" alt="TOUT" src="https://github.com/user-attachments/assets/245c32f0-a59f-40e2-b5ba-2d32e2727dbd" />
+<img width="500" height="300" alt="TOUT" src="https://github.com/user-attachments/assets/245c32f0-a59f-40e2-b5ba-2d32e2727dbd" />
 
 
 ---
