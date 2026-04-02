@@ -14,6 +14,8 @@ Elle permet de gérer l'ensemble des équipements informatiques d'un établissem
 ##  Fonctionnalités
 
 -  **Ajouter** un équipement avec contrôle du numéro de série unique
+
+  
   <img width="338" height="344" alt="AJOUT" src="https://github.com/user-attachments/assets/d0332e8f-5b29-442b-8641-387a33279b7a" />            <img width="283" height="159" alt="SUCCES D&#39;AJOUT" src="https://github.com/user-attachments/assets/8e3d0a7b-c9df-4c87-8e58-5a8ad78aefec" />
    
 
