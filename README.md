@@ -20,10 +20,13 @@ Elle permet de gérer l'ensemble des équipements informatiques d'un établissem
    
 
 -  **Rechercher** par type, localisation, état ou numéro de série
+  
 
   <img width="454" height="245" alt="RECHERCHE" src="https://github.com/user-attachments/assets/dc417ccc-050f-4544-95c2-0c9e6c161c4f" />
 
 -  **Modifier** les informations d'un équipement existant
+
+  
 
   <img width="626" height="396" alt="MODIFIER" src="https://github.com/user-attachments/assets/f2274472-0f2d-4cc0-aa94-29c3a24076f1" />            <img width="430" height="249" alt="SUCCES DE MODIFICATION" src="https://github.com/user-attachments/assets/53c78fa8-573f-4582-9713-44377e17089f" />
 
